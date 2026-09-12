@@ -1,0 +1,7 @@
+  print(bala data)
+ 
+
+   my data{
+           "Name":"Bala"
+           "Age":21
+           }
