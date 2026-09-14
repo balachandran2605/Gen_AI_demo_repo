@@ -1,0 +1,7 @@
+  print(Hello Karan!)
+
+   My data{"Name":Karan,
+           "Age":21
+           "City":Chennai
+           "Course":Gen AI
+          }
