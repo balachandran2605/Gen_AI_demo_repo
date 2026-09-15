@@ -1,0 +1,6 @@
+print(hello sanju!)
+
+ My data{"Name":Sanju
+         "Age":20
+         "Place":Pudukkottai
+        }
